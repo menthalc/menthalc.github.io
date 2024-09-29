@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://menthalc.github.io/sitemap.html.gz
+Sitemap: https://menthalc.github.io/app/sitemap.html.gz
+Sitemap: https://menthalc.github.io/assets/sitemap.html.gz
+Sitemap: https://menthalc.github.io/css/sitemap.html.gz
+Sitemap: https://menthalc.github.io/data/sitemap.html.gz
+Sitemap: https://menthalc.github.io/includes/sitemap.html.gz
+Sitemap: https://menthalc.github.io/item/sitemap.html.gz
+Sitemap: https://menthalc.github.io/src/sitemap.html.gz
